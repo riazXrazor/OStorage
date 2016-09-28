@@ -1,6 +1,7 @@
 # OStorage
 Storing access JSON/objects in localStorage a little bit easier
 Its quite simple to use
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
@@ -36,4 +37,4 @@ Its quite simple to use
   </script>
   </body>
 </html>
-
+```
